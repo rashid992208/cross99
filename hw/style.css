@@ -1,0 +1,247 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+main{
+	width: 100%;
+	height: 40%;
+	margin: auto;
+	padding: 30px;
+	background-color: red;
+	display: flex;
+	flex-wrap: wrap;
+	background: linear-gradient(45deg,gray,black);
+
+
+}
+.maket{
+	width: 100%;
+	height: calc(50vw - 70px);
+	background-color: white;
+	background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    background-image: url(../hw/img/photo2.png);
+
+
+}
+ .maket1{
+ 	width: 100%;
+	height: calc(30vw - 90px);
+	background-color: black;
+	background-position: center;
+    background-size,top: cover;
+    border-radius : 10px;
+    text-align: center;
+    color: white;
+    background: linear-gradient(gray,black);
+
+ }
+ 
+.lasttext1{
+     padding-top: 15%;
+     color: black;
+     font-size: 17px;
+
+
+}
+
+.lasttext2{
+     font-size: 17px; 
+     color: black;
+
+
+}
+ 
+ .lasttext3{
+     font-size: 17px;
+     color: black;
+
+
+}
+
+
+
+ .display{
+ 	display: flex;
+ 	flex-wrap: wrap;
+    background: linear-gradient(black,gray);
+ 	border-radius: 10px;
+ 	
+
+ }
+  
+
+
+.box{
+	width: calc(20% - 80px);
+	height: calc(30vw - 130px);
+	margin: 2%;
+	background-color: white;
+	margin-top: 100px;
+	margin-left: 115px;
+	border-radius: 10px;
+	box-shadow: 0 0 25px 10px black;
+	background-color: #F6F6F5;
+	
+    
+  
+
+
+}
+
+.box:hover{
+	background-position: center;
+	background-size: cover;
+	box-shadow: 0 0 10px 10px white;
+	-moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+     -moz-transform: scale(1.1);
+     -o-transform: scale(1.1);
+     transition: 0.5s;
+
+}
+
+
+.text1{
+	margin-bottom: calc(10% - 20px);
+	height: calc(30% - 80px);
+	text-align: center;
+
+}
+
+.zagolovok{
+	width: 100%;
+	font-size: 300%;
+	color: gray;
+	margin-top: 20%; 
+	margin-left: 5%;
+
+
+}
+h1:hover{
+	box-shadow: 0 0 10px 10px white;  
+    transition: 0.5s;
+    background-color: black;
+
+
+}
+
+
+.photo1{
+	background-image: url(../hw/img/nike1.jpg);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;	
+}
+p{
+	margin-bottom: 30px;
+
+}
+.photo2{
+	background-image: url(../hw/img/nike2.jpg);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;
+	
+}
+.photo3{
+	background-image: url(../hw/img/nike3.jpg);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;
+	
+}
+.photo4{
+	background-image: url(../hw/img/nike4.jpg);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;
+	
+}
+
+.photo5{
+	background-image: url(../hw/img/nike5.png);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;
+	
+	
+}
+.photo6{
+	background-image: url(../hw/img/nike6.jpg);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;
+	
+}
+.photo7{
+	background-image: url(../hw/img/nike7.jpg);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;
+	
+}
+.photo8{
+	background-image: url(../hw/img/nike8.png);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;
+	
+}
+.photo9{
+	background-image: url(../hw/img/nike9.png);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;
+	
+	
+}
+.photo10{
+	background-image: url(../hw/img/nike10.png);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;
+	
+}
+.photo11{
+	background-image: url(../hw/img/nike11.png);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;
+	
+}
+.photo12{
+	background-image: url(../hw/img/nike12.png);
+	background-position: center;
+	background-size: cover;
+	height: calc(20vw - 70px);
+	border-radius: 10px;
+	margin-bottom: 10px;
+	
+}
+
